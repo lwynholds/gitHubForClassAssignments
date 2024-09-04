@@ -1,0 +1,5 @@
+method to put completed assignments on GitHub:
+I think I will probably use VSCode to push/pull files and commit edits...
+but it is a little confusing to figure out which repo the local files draw from
+Or perhaps just upload files via the GitHub website.
+
